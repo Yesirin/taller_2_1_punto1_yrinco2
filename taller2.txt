@@ -1,0 +1,28 @@
+[lunes 10:16 a. m.] Acevedo Guillin, Antony Sneyder
+2 Taller Git y GitHub
+Descripción del problema.
+ 
+Ejercicio Uno Repositorio uno.
+Crear la rama main y crear un archivo.
+Luego crear  2 ramas adicionales
+Primer nombre de la rama staging donde crearan  un archivo diferente al creado en feature y main.
+Segundo nombre de la rama feature donde crearan un archivo diferente. 
+Luego hacer un  MERGE  entre  feature a staging.
+Y por ultimo hacer un MERGE a la rama main desde la rama staging.
+
+
+
+
+
+Ejercicio Dos Respositorio Dos
+Crear la rama main y crear un archivo.
+Luego crear  2 ramas adicionales
+Primer nombre de la rama staging donde crearan  un archivo diferente al creado en feature y main.
+Segundo nombre de la rama feature donde crearan un archivo diferente. 
+Luego hacer un  MERGE  entre  feature a main y luego un un Merge entre staging y main .
+ 
+ 
+ Por favor tener presente que por cada punto se debe entregar un repositorio aparte, (estos son diferentes a los que hicimos en la clase del viernes). la estructura de los nombres de los repositorios es el siguiente:
+ 
+Para el punto 1 del taller: taller-git-uno-usuarioRED
+Para el punto 2 del taller: taller-git-dos-usuarioRED
